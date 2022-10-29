@@ -1,0 +1,7 @@
+{
+  "name": "www.ozon.ru",
+  "short_name": "OZON.ru",
+  "gcm_sender_id": "688521978278",
+  "display": "standalone",
+  "gcm_user_visible_only": true
+}
